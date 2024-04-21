@@ -7,7 +7,11 @@
 **This includes features like:**
 
 **-Current Temperature in Fahrenheit**
+
 **-What it feels like outside (wind chill)**
+
 **-Minimum and Maximum forecasted temp for the day**
+
 **-Wind Speed**
+
 **-Humidity**
